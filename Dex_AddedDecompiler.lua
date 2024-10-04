@@ -4,8 +4,8 @@
 	New Dex
 	Final Version
 	Developed by Moon
-  Decompiled by Konstant
-  Fixed by jimini1208(UncensoredUsers)
+  	Decompiled by Konstant
+  	Fixed by jimini1208(UncensoredUsers)
 	Modified for Infinite Yield
 	
 	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
