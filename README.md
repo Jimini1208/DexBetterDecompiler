@@ -2,7 +2,7 @@
 
 # Dark Dex v4 (Added Decompiler)
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UncensoredUsers/DexBetterDecompiler/refs/heads/main/Dex_AddedDecompiler.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jimini1208/DexBetterDecompiler/refs/heads/main/Dex_AddedDecompiler.lua"))()
 ```
 
 ### Credits:
